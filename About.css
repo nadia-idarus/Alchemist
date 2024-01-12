@@ -1,0 +1,25 @@
+/* Additional styles for the About Us page */
+.about-title {
+    font-size: 28px;
+    font-weight: bold;
+    margin-bottom: 20px;
+  }
+  
+  .about-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 8px;
+    margin-bottom: 20px;
+  }
+  
+  .about-content p {
+    margin-bottom: 15px;
+  }
+  
+  /* Center the about-content on larger screens */
+  @media (min-width: 768px) {
+    .about-content {
+      text-align: center;
+    }
+  }
+  

@@ -1,0 +1,31 @@
+body {
+    background-image: url('Ash-\ background.jpg'); 
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-attachment: fixed; 
+    margin: 0;
+    padding: 0;
+  }
+  
+  .jumbotron {
+    background-color: #343a40;
+    color: #ffffff;
+    padding: 2rem;
+    margin-bottom: 0;
+  }
+  
+  .card {
+    margin-top: 20px;
+  }
+  
+  .card-title {
+    color: #343a40;
+  }
+  
+  .card-text {
+    color: #555;
+  }
+  
+  /* Add additional styles as needed for other elements */
+  
